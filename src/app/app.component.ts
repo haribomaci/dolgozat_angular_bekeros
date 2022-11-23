@@ -1,3 +1,11 @@
+// File: app.component.ts
+// Author: Tóth Júlia
+// Copyright: 2022, Tóth Júlia
+// Group: Szoft 2/n
+// Date: 2022-11-23
+// Github: https://github.com/haribomaci
+// Licenc: GNU GPL
+
 import { Component } from '@angular/core';
 
 @Component({

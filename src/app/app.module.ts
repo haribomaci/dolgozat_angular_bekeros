@@ -1,3 +1,11 @@
+// File: app.module.ts
+// Author: Tóth Júlia
+// Copyright: 2022, Tóth Júlia
+// Group: Szoft 2/n
+// Date: 2022-11-23
+// Github: https://github.com/haribomaci
+// Licenc: GNU GPL
+
 import { NgModule } from '@angular/core';
 import { FormsModule } from '@angular/forms';
 import { BrowserModule } from '@angular/platform-browser';
